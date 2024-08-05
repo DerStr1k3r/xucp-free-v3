@@ -3,9 +3,9 @@ In this xUser Control Panel, it is a completely new development. PDO Version is 
 
 
 xUCP Free V3 (Open Source)
-(C) 2022 DerStr1k3r.de
-https://derstr1k3r.de
-https://discord.gg/xg5mnYUWch
+*  (C) 2022 DerStr1k3r.com
+*  https://derstr1k3r.com
+*  https://discord.gg/xg5mnYUWch
 
 ## Requirements for xUCP Free V3:
 
